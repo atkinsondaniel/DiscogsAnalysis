@@ -2,3 +2,6 @@
 *.xml
 *.db
 .ipynb_checkpoints/Prep-checkpoint.ipynb
+.ipynb_checkpoints/Scrape-checkpoint.ipynb
+__pycache__/config.cpython-37.pyc
+config.py
